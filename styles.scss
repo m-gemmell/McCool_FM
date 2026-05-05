@@ -1,0 +1,24 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+// Newsreader
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+// Courier Prime
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// Special Elite
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+// Colors
+$ibm-blue: #648fff;
+$ibm-purple: #785ef0;
+$ibm-maroon: #dc267f;
+$ibm-orange: #fe6100;
+$ibm-yellow: #ffb000;
+
+// Base document colors
+$navbar-bg: $ibm-purple;
+$navbar-hl: $ibm-yellow; // highlight color when hovering over navbar links
+$footer-bg: $ibm-purple; // footer
+$sidebar-hl: $ibm-blue;
+
+$link-color: $ibm-blue;

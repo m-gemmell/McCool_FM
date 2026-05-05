@@ -1,0 +1,81 @@
+project:
+  type: website
+editor: source
+
+#Website
+website:
+  bread-crumbs: false
+  page-navigation: true
+  title: "McCool FM"
+  description: "McCool FM"
+##Navbar
+  navbar:
+    title: McCool FM
+    collapse-below: lg
+###Navbar left
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "1989"
+        href: 1989/december/new_radio_station.qmd
+      - text: "1990"
+        href: 1990/january/january.qmd
+###Navbar right
+    right:
+    # List of icons: https://icons.getbootstrap.com/
+      - icon: cup
+        href: https://ko-fi.com/waveofinspiration
+        aria-label: Ko-fi
+      - icon: github
+        href: https://github.com/m-gemmell/McCool_FM
+        aria-label: GitHub
+##Apge footer
+  page-footer:
+    center: |
+      [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6IRLA0)
+##Sidebar
+  sidebar:
+    - id: Overview
+      title: "Overview"
+      style: "floating"
+      align: left
+      contents:
+        - href: index.qmd
+    - id: year_1989
+      title: "1989"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - section: December 1989
+          contents:
+          - href: 1989/december/new_radio_station.qmd
+          - href: 1989/december/gaias_wreath.qmd
+          - href: 1989/december/mccool_fm_news_dec_1989.qmd
+          - href: 1989/december/primeval_deities_and_you_ep_1.qmd
+          - href: 1989/december/pump_veiled_nightjar.qmd
+          - href: 1989/december/pump_flustered_turkey.qmd
+          - href: 1989/december/pump_cracked_batfish.qmd
+          - href: 1989/december/paar_avow.qmd
+    - id: year_1990
+      title: "1990"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - section: January 1990
+          contents:
+          - href: 1989/december/december.qmd
+#Format
+format:
+  html:
+    grid:
+      sidebar-width: 200px
+      body-width: 1000px
+      margin-width: 200px
+      gutter-width: 0.75em
+    #HTML themes: https://quarto.org/docs/output-formats/html-themes.html
+    theme: 
+      dark: [cyborg, styles.scss]
+      light: [cosmo, styles.scss]
+    toc: true
