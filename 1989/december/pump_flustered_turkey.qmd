@@ -3,27 +3,28 @@ title: "PuMP: FLUSTERED TURKEY"
 mainfont: Special Elite
 ---
 
-BACKGROUND
+__BACKGROUND__ <br>
 A test subject of an illegal Centre for Genomic Cloning (CGC) lab hybridising humans and animals. She was rescued in 1988 by The Arrows of Gaia (TAG), an eco warrior group. TAG reported decapitating Dr. Petra Pufferfish, visiting the facility, at the time (unconfirmed).
 
-PHYSICAL FEATURES
-Unnatural beauty: An incredibly buxom and enchanting woman. Lightly tanned skin, long black hair in ringlets, and excitable hazel eyes. Covered in ersatz freckles*. 
+__PHYSICAL FEATURES__ <br>
+__Unnatural beauty:__ An incredibly buxom and enchanting woman. Lightly tanned skin, long black hair in ringlets, and excitable hazel eyes. Covered in ersatz freckles*. 
 
-PERSONALITY QUIRKS
-Charming but entitled: She knows what people want to hear and effectively leverages this. After escaping from the CGC lab she greatly values freedom and fun. Due to her looks she is able to get what she wants more often than not.
-Protective yet belligerent: She works well with team members she has bonded with, usually through her “makeover” sessions. She is aggressive and will quickly start or join a fight. Requires gentle guidance and camaraderie from her team members. 
+__PERSONALITY QUIRKS__ <br>
+__Charming but entitled:__ She knows what people want to hear and effectively leverages this. After escaping from the CGC lab she greatly values freedom and fun. Due to her looks she is able to get what she wants more often than not. <br>
+__Protective yet belligerent:__ She works well with team members she has bonded with, usually through her “makeover” sessions. She is aggressive and will quickly start or join a fight. Requires gentle guidance and camaraderie from her team members. 
 
-FAVOURED GEAR
-Beguiling dress
-Pointed metal feather hair stick
-Atchisson AA-12 automatic combat shotgun
+__FAVOURED GEAR__
 
-PRIMAL STATS
+- Beguiling dress
+- Pointed metal feather hair stick
+- Atchisson AA-12 automatic combat shotgun
+
+__PRIMAL STATS__ <br>
 JAWS:+2 | EYES:0 | LIMBS:-1 | NERVES:+1
 
-PRIMAL ABILITIES
-Turkey: Hybridised with a Turkey giving her unnatural beauty. She can understand and speak with birds of the Phasianidae family including Turkeys, Peacocks, and chickens**. 
-Mitridatism: She builds an immunity to all poisons/venoms after one administration of it. Perfect for infiltrating events or organisations involved in alcohol or drugs whilst retaining her full faculties.
+__PRIMAL ABILITIES__ <br>
+__Turkey:__ Hybridised with a Turkey giving her unnatural beauty. She can understand and speak with birds of the Phasianidae family including Turkeys, Peacocks, and chickens**. 
+__Mitridatism:__ She builds an immunity to all poisons/venoms after one administration of it. Perfect for infiltrating events or organisations involved in alcohol or drugs whilst retaining her full faculties.
 
-\*Pluck marks from feathers that irregularly grow on her body
-\*\*This does not change the intelligence of the bird
+\*Pluck marks from feathers that irregularly grow on her body <br>
+\*\*This does not change the intelligence of the bird <br>

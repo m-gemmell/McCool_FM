@@ -71,11 +71,11 @@ format:
   html:
     grid:
       sidebar-width: 200px
-      body-width: 1000px
-      margin-width: 200px
+      body-width: 1200px
+      margin-width: 100px
       gutter-width: 0.75em
     #HTML themes: https://quarto.org/docs/output-formats/html-themes.html
     theme: 
-      dark: [cyborg, styles.scss]
-      light: [cosmo, styles.scss]
+      dark: [darkly, styles_dark.scss]
+      light: [styles_light.scss]
     toc: true

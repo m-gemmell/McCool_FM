@@ -1,0 +1,46 @@
+// Light theme
+
+/*-- scss:defaults --*/
+
+// Import fonts
+// Newsreader
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+// Courier Prime
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// Special Elite
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+// Colors
+$ibm-blue: #648fff;
+$ibm-purple: #785ef0;
+$ibm-maroon: #dc267f;
+$ibm-orange: #fe6100;
+$ibm-yellow: #ffb000;
+$mccool-yellow: #ffea5b;
+$mccool-blue: #1e398c;
+$mccool-white: #ffffff;
+$mccool-blue-two: #0000ff;
+$mccool-yellow-two: #ffff00;
+$black: #000000;
+$light-grey: #f9f9f9;
+
+// Base document colors
+// https://quarto.org/docs/output-formats/html-themes.html
+$navbar-bg: $mccool-blue;
+$navbar-fg: $mccool-white;
+$navbar-hl: $mccool-yellow-two; // highlight color when hovering over navbar links
+$navbar-color: $mccool-white;
+$footer-bg: $mccool-blue; // footer
+$footer-fg: $black;
+$toc-hl: $mccool-blue-two;
+$sidebar-hl: $mccool-yellow;
+$sidebar-fg: $black;
+$link-color: $mccool-blue-two;
+
+$pagination-color: $black;
+
+
+$body-bg: $light-grey;
+$body-color: $black;
+
+$navpage-color: $black;
