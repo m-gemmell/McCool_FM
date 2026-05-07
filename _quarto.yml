@@ -19,7 +19,7 @@ website:
       - text: "1989"
         href: 1989/december/new_radio_station.qmd
       - text: "1990"
-        href: 1990/january/january.qmd
+        href: 1990/january/si_senor.qmd
 ###Navbar right
     right:
     # List of icons: https://icons.getbootstrap.com/
@@ -44,7 +44,7 @@ website:
     - id: year_1989
       title: "1989"
       style: "floating"
-      collapse-level: 2
+      collapse-level: 1
       align: left
       contents:
         - section: December 1989
@@ -60,12 +60,34 @@ website:
     - id: year_1990
       title: "1990"
       style: "floating"
-      collapse-level: 2
+      collapse-level: 1
       align: left
       contents:
         - section: January 1990
           contents:
-          - href: 1989/december/december.qmd
+          - href: 1990/january/si_senor.qmd
+          - href: 1990/january/mccool_fm_news_jan_1990.qmd
+          - href: 1990/january/primeval_deities_and_you_ep_2.qmd
+          - href: 1990/january/mccool_people_sol.qmd
+          - href: 1990/january/paar_debt.qmd
+        - section: February 1990
+          contents:
+          - href: 1990/february/warboys_dot_opening.qmd
+          - href: 1990/february/boulder_os.qmd
+          - href: 1990/february/mccool_fm_news_feb_1990.qmd
+          - href: 1990/february/mccool_people_prof_peadar_duignan.qmd
+          - href: 1990/february/paar_pops.qmd
+        - section: March 1990
+          contents:
+          - href: 1990/march/pumice_construction.qmd
+          - href: 1990/march/mccool_fm_news_mar_1990.qmd
+          - href: 1990/march/mccool_people_dr_rangi_doshi.qmd
+          - href: 1990/march/paar_delve.qmd
+        - section: April 1990
+          contents:
+          - href: 1990/april/mccool_fm_news_apr_1990.qmd
+          - href: 1990/april/mccool_people_dr_petra_pufferfish.qmd
+          - href: 1990/april/paar_play.qmd
 #Format
 format:
   html:

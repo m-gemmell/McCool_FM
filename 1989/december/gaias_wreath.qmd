@@ -1,5 +1,5 @@
 ---
-title: "GAIA'S WREATH COMMERCIAL SCRIPT"
+title: "Commercial: Gaia's wreath"
 mainfont: Courier Prime
 ---
 

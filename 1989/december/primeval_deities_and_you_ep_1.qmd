@@ -1,9 +1,7 @@
 ---
-title: "The Primeval Deities and you episode 1"
+title: "The Primeval Deities and you: ep1 Overview"
 mainfont: Courier Prime
 ---
-
-Overview
 
 Hello listener and welcome to the first episode of The Primeval Deities and you. I am Dr. Harmon Atriti, lecturer of Primeval studies at The University of Cambridge, and your eager host. In this series we will explore the four Primeval deities and their influence on our world. In this episode we will answer a few foundational questions to set us on the correct path.
 

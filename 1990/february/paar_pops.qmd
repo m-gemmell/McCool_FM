@@ -1,0 +1,29 @@
+---
+title: "PAAR: POPS"
+mainfont: Special Elite
+---
+
+MISSION <br> 
+**P**OSSIBLE OIL PIPE SABOTAGE
+
+**MISSION LOCATION** <br> 
+THE BLACK FOREST, GERMANY, ERA (EUROPEAN AND RUSSIAN ALLIANCE)
+
+**MISSION STARTED - MISSION CLOSED** <br> 
+1920 27 FEB 1990 - 0345 28 FEB 1990
+
+**CLIENT - CONTRACT DATE** <br> 
+TAG (THE ARROWS OF GAIA)- 16TH JAN 1990
+
+**REMARKS** <br> 
+
+
+**MERCENARIES INVOLVED - CODENAMES - STATUS** <br> 
+████████████████████ - WOODEN SPARROW - ACTIVE <br>
+████████████████████ - LANCED BULL - ACTIVE <br>
+████████████████████ - STEAM GAZELLE - ACTIVE <br>
+████████████████████ - BLINK HARE - ACTIVE <br>
+
+
+team worked for TAG and stopped the pipeline from running}
+https://m-gemmell.github.io/PRIMEVAL_DEITIES/Missions/M-POPS.html

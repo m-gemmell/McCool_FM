@@ -1,7 +1,9 @@
 ---
-title: "A M^c^Cool new radio station signals a new decade"
+title: "News story: M^c^Cool FM announcement"
 mainfont: Newsreader
 ---
+
+__A M^c^Cool new radio station signals a new decade__
 
 by Kirtsy Sherman
 
