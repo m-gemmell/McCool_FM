@@ -1,0 +1,54 @@
+---
+title: "PAAR: SICK"
+mainfont: Special Elite
+---
+
+MISSION <br> 
+**S**TEAL **I**NTERESTING S**C**HEMATICS FROM **K**RAKEN
+
+**MISSION LOCATION** <br> 
+
+
+**MISSION STARTED - MISSION CLOSED** <br> 
+
+
+**CLIENT - CONTRACT DATE** <br> 
+
+
+**REMARKS** <br> 
+
+
+**MERCENARIES INVOLVED - CODENAMES - STATUS** <br> 
+████████████████████ - TRASHED PAND - ACTIVE <br> 
+████████████████████ - ECHOED SNAIL - ACTIVE <br>
+
+SICK: Steal Interesting sChematics from Kraken
+Gaian forces want schematics for a new solar panel technology. These are being held by the energy company “Kraken” run by the CEO “Marian Dullcoin”, an elder dotter of Tartarus. Extract this from their R&D facility in their private industrial estate on the Spanish island of Mallorca.
+
+Extraction on small island Cabrera.
+
+Reward: The plasma cutter pistol is being developed at the industrial estate. If it is stolen and the schematics successfully stolen and given to the Gaia forces they will finish it. This will repair and remove the Unfinished weapon trait. 
+
+Plasma cutter (1D6+2 DAMAGE)
+ROCKCUTTER: Makes clean line cuts that can go through flesh, bone, and rock. Purpose made to not damage gems and metals. Side effect is that it cannot damage plant based materials.
+UNFINISHED: When fired, roll a D6. If your roll is equal to or less than the number of times you have used the weapon it fails and will no longer work till repaired and finished.
+
+Industrial estate
+Reception building
+Office building with worker recreation
+RnD buildings
+Renewables: Facility looking into renewables. Favors geothermal energy. Has schematics.
+Mining: Research projects into improving mining. Has plasma cutter
+Generators: Large rooms with electricity generator prototypes.
+Oil: Petroleum chemistry research.
+Defenses
+Pairs of Kraken security guards
+High walls with barbed wire around perimeter
+Guard towers that move around on tracks around the perimeter, within the walls.
+Each tower has a search light and 2 tower guards [3HP, 1 ARMOR, semi-automatic rifle 1D6+1 DAMAGE]
+If high alert contractor will be sent out, 2 contractor per SUV
+Kraken private contractor
+SUV 
+Suggested ways of infiltration
+Gaian spy acting as janitor
+Bar that employees go to after work called “Si senor”.

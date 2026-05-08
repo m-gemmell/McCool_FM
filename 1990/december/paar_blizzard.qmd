@@ -1,0 +1,28 @@
+---
+title: "PAAR: BLIZZARD"
+mainfont: Special Elite
+---
+
+MISSION <br> 
+**B**LANCHARD'S **L**ARGE **I**CE ISLAND **Z**ONE **Z**APS **A**MERICA LEADING TO **R**ETALIATION THROUGH **D**EICING
+
+**MISSION LOCATION** <br> 
+
+
+**MISSION STARTED - MISSION CLOSED** <br> 
+
+
+**CLIENT - CONTRACT DATE** <br> 
+
+
+**REMARKS** <br> 
+
+
+**MERCENARIES INVOLVED - CODENAMES - STATUS** <br> 
+████████████████████ - DAZZLING FIREWORKS - KIA <br>
+████████████████████ - LANCED BULL - ACTIVE <br>
+████████████████████ - STEAM GAZELLE - ACTIVE <br>
+████████████████████ - BLINK HARE - ACTIVE <br>
+
+
+https://m-gemmell.github.io/PRIMEVAL_DEITIES/Missions/M-Blanchards_winter.html

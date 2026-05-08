@@ -75,19 +75,43 @@ website:
           - href: 1990/february/warboys_dot_opening.qmd
           - href: 1990/february/boulder_os.qmd
           - href: 1990/february/mccool_fm_news_feb_1990.qmd
+          - href: 1990/february/primeval_deities_and_you_ep_3.qmd
           - href: 1990/february/mccool_people_prof_peadar_duignan.qmd
           - href: 1990/february/paar_pops.qmd
         - section: March 1990
           contents:
           - href: 1990/march/pumice_construction.qmd
           - href: 1990/march/mccool_fm_news_mar_1990.qmd
+          - href: 1990/march/primeval_deities_and_you_ep_4.qmd
           - href: 1990/march/mccool_people_dr_rangi_doshi.qmd
           - href: 1990/march/paar_delve.qmd
         - section: April 1990
           contents:
           - href: 1990/april/mccool_fm_news_apr_1990.qmd
+          - href: 1990/april/primeval_deities_and_you_ep_5.qmd
           - href: 1990/april/mccool_people_dr_petra_pufferfish.qmd
           - href: 1990/april/paar_play.qmd
+        - section: May 1990
+          contents:
+          - href: 1990/may/primeval_deities_and_you_ep_6.qmd
+          - href: 1990/may/paar_sick.qmd
+        - section: June 1990
+          contents:
+          - href: 1990/june/basmthgvtrfos.qmd
+          - href: 1990/june/mccool_people_pat.qmd
+        - section: July 1990
+          contents:
+          - href: 1990/july/mccool_fm_news_jul_1990.qmd
+          - href: 1990/july/primeval_deities_and_you_ep_8.qmd
+        - section: August 1990
+          contents:
+          - href: 1990\august\hyperborean_ice_cream.qmd
+          - href: 1990/august/mccool_fm_news_aug_1990.qmd
+          - href: 1990/august/primeval_deities_and_you_ep_9.qmd
+          - href: 1990/august/mccool_people_blanchard_the_hyperborean.qmd
+        - section: September 1990
+          contents: 
+          - href: 1990/september/primeval_deities_and_you_ep_10.qmd
 #Format
 format:
   html:
