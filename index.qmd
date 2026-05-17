@@ -6,4 +6,6 @@ editor:
 mainfont: Courier Prime
 ---
 
+![](images/mccool_fm_logo.png){width=300px fig-align="center"}
+
 The following website contains an assortment of curated documents from the radio station M^c^Cool FM and the mercenary group PUML.

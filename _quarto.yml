@@ -1,16 +1,17 @@
 project:
   type: website
 editor: source
-
 #Website
 website:
   bread-crumbs: false
+  favicon: /images/mccool_fm_logo.png
   page-navigation: true
-  title: "McCool FM"
+  title: "M^c^Cool FM"
   description: "McCool FM"
 ##Navbar
   navbar:
-    title: McCool FM
+    title: M^c^Cool FM
+    logo: "images/mccool_fm_logo.png"
     collapse-below: lg
 ###Navbar left
     left:
@@ -31,8 +32,10 @@ website:
         aria-label: GitHub
 ##Apge footer
   page-footer:
+    left: |
+      ![](/images/mccool_fm_logo.png){width=100}
     center: |
-      [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6IRLA0)
+      [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K6IRLA0)
 ##Sidebar
   sidebar:
     - id: Overview
