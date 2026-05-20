@@ -59,7 +59,6 @@ website:
           - href: 1989/december/pump_veiled_nightjar.qmd
           - href: 1989/december/pump_flustered_turkey.qmd
           - href: 1989/december/pump_cracked_batfish.qmd
-          - href: 1989/december/paar_avow.qmd
     - id: year_1990
       title: "1990"
       style: "floating"
@@ -72,6 +71,7 @@ website:
           - href: 1990/january/mccool_fm_news_jan_1990.qmd
           - href: 1990/january/primeval_deities_and_you_ep_2.qmd
           - href: 1990/january/mccool_people_sol.qmd
+          - href: 1990/january/paar_avow.qmd
           - href: 1990/january/paar_debt.qmd
         - section: February 1990
           contents:
