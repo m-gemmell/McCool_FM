@@ -9,3 +9,5 @@ mainfont: Courier Prime
 ![](images/mccool_fm_logo.png){width=300px fig-align="center"}
 
 The following website contains an assortment of curated documents from the radio station M^c^Cool FM and the mercenary group PUML.
+
+Note the following symbols denote footnotes which are at the bottom of the page: *, ⁂, ⏺, ♢, 🛆, and then the greek alphabet starting with α and ending with ω.

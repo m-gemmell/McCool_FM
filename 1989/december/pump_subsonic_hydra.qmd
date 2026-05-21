@@ -1,0 +1,27 @@
+---
+title: "PuMP: SUBSONIC HYDRA"
+mainfont: Special Elite
+---
+
+__BACKGROUND__ <br>
+H
+
+__PHYSICAL FEATURES__ <br>
+__:__ 
+
+__PERSONALITY QUIRKS__ <br>
+__X but Y:__  <br>
+__W yet Z:__ 
+
+__FAVOURED GEAR__
+
+- 
+- 
+- 
+
+__PRIMAL STATS__ <br>
+JAWS: | EYES:| LIMBS: | NERVES:
+
+__PRIMAL ABILITIES__ <br>
+__A:__ <br>
+__B:__ 

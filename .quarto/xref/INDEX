@@ -403,5 +403,32 @@
   },
   "1990/aug/test.qmd": {
     "test.html": "7f7938f3"
+  },
+  "1989/december/paar_debt.qmd": {
+    "paar_debt.html": "bb1ca967"
+  },
+  "1990/january/paar_avow.qmd": {
+    "paar_avow.html": "1e19f273"
+  },
+  "1990/february/paar_debt.qmd": {
+    "paar_debt.html": "a5d450a4"
+  },
+  "1990/january/pump_flustered_turkey.qmd": {
+    "pump_flustered_turkey.html": "d17d329f"
+  },
+  "1990/january/pump_veiled_nightjar.qmd": {
+    "pump_veiled_nightjar.html": "763f613b"
+  },
+  "1989/december/paar_green.qmd": {
+    "paar_green.html": "0831d02d"
+  },
+  "1989/december/pump_flashbang_squirrel.qmd": {
+    "pump_flashbang_squirrel.html": "9daff5ad"
+  },
+  "1989/december/pump_sightless_truffle.qmd": {
+    "pump_sightless_truffle.html": "4e99a569"
+  },
+  "1989/december/pump_subsonic_hydra.qmd": {
+    "pump_subsonic_hydra.html": "1f644259"
   }
 }
