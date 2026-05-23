@@ -4,7 +4,12 @@ mainfont: Special Elite
 ---
 
 __BACKGROUND__ <br>
-H
+A real speed demon he loves motorbikes, jet skis, planes, and any other fast vehicles*.
+He's famous in various motor & water sports.
+In this profession he was crashed an experimental vehicle and was chopped in half due to a failure/crash.
+Afterwards two of him regenerated, one from each half (see his Hydral regeneration ability).
+This wasn't the first time and one of the halves continued the famous life whilst the other decided to do something more dangerous and exciting.
+Join PUML.
 
 __PHYSICAL FEATURES__ <br>
 __:__ 
@@ -25,5 +30,17 @@ __PRIMAL STATS__ <br>
 JAWS: | EYES:| LIMBS: | NERVES:
 
 __PRIMAL ABILITIES__ <br>
-__A:__ <br>
+__Hydral regeneration:__ He has amazing regeneration abilities. 
+Small wounds may take minutes but loss of body parts can take months in a coma with nutrient tubes.
+Its not magic rather its really powerful stem cells.
+He has two special but identical stem cell producing organs: one in his head the other in his left foot.
+Only body parts connected to one or the other will regenerate.
+Strangely his left foot clone will be a perfect clone of SUBSONIC from when the separation occurred, memories and all.
+Our SUBSONIC is from the fifth splitting.
+<br>
 __B:__ 
+
+*Brilliant having someone who can pilot/drive pretty much any vehicle
+
+MG note: SUBSONIC HYDRA will get captured in GREEN and used by Dr. Petra Pufferfish as a source of stem cells for her cloning of her self (these clones having all her memories).
+She'll then capture the other hydral clones of SUBSONCI HYDRA (Andrea Dazzi) to harvest their stem cells.
