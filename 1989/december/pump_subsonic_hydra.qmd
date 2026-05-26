@@ -12,7 +12,10 @@ This wasn't the first time and one of the halves continued the famous life whils
 Join PUML.
 
 __PHYSICAL FEATURES__ <br>
-__:__ 
+__Blue racer:__ Adorned in cornflower blue leather attire for racing: jacket, gloves, abd trousers.
+His jacket and trousers are covered in various sponsor badges*.
+He protects his head with a reinforced motorbike helmet.
+Although he has a normal shoe on his right foot, his left foot is encased in a massive pointed metal boot like a medieval knight.
 
 __PERSONALITY QUIRKS__ <br>
 __X but Y:__  <br>
@@ -27,7 +30,7 @@ __FAVOURED GEAR__
 - 
 
 __PRIMAL STATS__ <br>
-JAWS: | EYES:| LIMBS: | NERVES:
+JAWS:0 | EYES:-2 | LIMBS:+2 | NERVES:+1
 
 __PRIMAL ABILITIES__ <br>
 __Hydral regeneration:__ He has amazing regeneration abilities. 
@@ -38,9 +41,12 @@ Only body parts connected to one or the other will regenerate.
 Strangely his left foot clone will be a perfect clone of SUBSONIC from when the separation occurred, memories and all.
 Our SUBSONIC is from the fifth splitting.
 <br>
-__B:__ 
+__Kinetic transfer:__ When touching an item he can increase its speed up to 342m/s*. 
+When it leaves his touch this effect stops but and the item will decellerate normally. 
 
 *Brilliant having someone who can pilot/drive pretty much any vehicle
+*Most prominetly one for PUML
+*343 m/s is the spped of sound, therefore 342m/s and below is subsonic
 
 MG note: SUBSONIC HYDRA will get captured in GREEN and used by Dr. Petra Pufferfish as a source of stem cells for her cloning of her self (these clones having all her memories).
 She'll then capture the other hydral clones of SUBSONCI HYDRA (Andrea Dazzi) to harvest their stem cells.
