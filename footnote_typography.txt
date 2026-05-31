@@ -4,9 +4,9 @@ Footnote symbols order in my world
 
 *
 ⁂   - Nyxmera
-⏺   - Tartarus
+◉   - Tartarus
 ♢   - Proteus
-🛆  - Gaia
+Δ  - Gaia
 α   - Alpha	
 β   - Beta	
 γ   - Gamma	
