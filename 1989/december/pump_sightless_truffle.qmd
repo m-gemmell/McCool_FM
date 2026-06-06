@@ -16,12 +16,20 @@ __W yet Z:__
 __FAVOURED GEAR__
 
 - Ghillie suit
-- 
+- Ultimate Iron hollow handle survival knife
 - 
 
 __PRIMAL STATS__ <br>
-JAWS: | EYES:| LIMBS: | NERVES:
+JAWS:0 | EYES:+1 | LIMBS:+2 | NERVES:0
 
 __PRIMAL ABILITIES__ <br>
-__A:__ <br>
-__B:__ 
+__Smell-nar\*:__ He has a remarkable sense of smell and can envsion the world with it.
+Breaking the law of physicis he's able to sense smells that are downwind of his position.
+His maximum range is based on the amount of smells, he can only process so much, and physical barriers. <br>
+__Hyphae-nated:__ His skin is covered in fungus that can extract nutrients from the ground.
+The fungus then shares these nutrients with its host*.
+This is an incredibly useful ability for hiding in one spot for prolonged periods.
+
+*I'm very envious of this knife. Its an original made for the first Oxbow movie! 
+*Smell Navigation And Ranging, like sonar but with smell
+*NIGHTJAR has tried giving thefungus to other people but they only survive on SIGHTLESS TRUFFLE
