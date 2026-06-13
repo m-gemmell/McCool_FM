@@ -34,7 +34,7 @@ JAWS:-1 | EYES:0 | LIMBS:-1 | NERVES:0
 __PRIMAL ABILITIES__ <br>
 __Munsell sphere:__ He can create a sphere of one colour ay amy one point he can see.
 The sphere reflects light from the chosen colour meaning it can be good cover.
-However, it also absorbs the opposite colour* meaning that's the only colour you can see whilst in the sphere.
+However, it also absorbs the opposite colour⁂ meaning that's the only colour you can see whilst in the sphere.
 He can make one to three of these spheres a day each with a maximum diameter of 3 metres.
  <br>
 __Hematite arm:__ His left arm, from forearm to hand, is entirely made of a red hematite.
@@ -44,4 +44,4 @@ Thankfully it regrows quickly after an iron rich diet. <br>
 
 
 \*Used for UK navy ships in WWI, not humans!<br>
-\*according to the Munsell colour system
+⁂according to the Munsell colour system
