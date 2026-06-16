@@ -32,7 +32,7 @@ __PRIMAL STATS__ <br>
 JAWS:-1 | EYES:0 | LIMBS:-1 | NERVES:0
 
 __PRIMAL ABILITIES__ <br>
-__Munsell sphere:__ He can create a sphere of one colour ay amy one point he can see.
+__Munsell sphere:__ He can create a sphere of one colour at any one point he can see.
 The sphere reflects light from the chosen colour meaning it can be good cover.
 However, it also absorbs the opposite colour⁂ meaning that's the only colour you can see whilst in the sphere.
 He can make one to three of these spheres a day each with a maximum diameter of 3 metres.
