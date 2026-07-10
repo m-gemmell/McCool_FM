@@ -54,4 +54,4 @@ When it leaves his touch this effect stops with the item decelerating normally.
 ◉Most prominently one for PUML<br>
 ♢I've told him this makes his weak points obvious but he pretends to not listen<br>
 ΔCells that can become various other cells and duplicate a tonne<br>
-^α^343 m/s is the speed of sound, therefore 342m/s and below is subsonic<br>
+α343 m/s is the speed of sound, therefore 342m/s and below is subsonic<br>
