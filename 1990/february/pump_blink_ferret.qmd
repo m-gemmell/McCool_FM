@@ -1,0 +1,33 @@
+---
+title: "PuMP: BLINK FERRET"
+mainfont: Special Elite
+---
+
+__BACKGROUND__ <br>
+
+
+__PHYSICAL FEATURES__ <br>
+__Inconspicuous tourist:__ Bearing a polaroid camera around his neck and a long black coat surrounding his body, he looks like an average and forgettable bystander.
+However, his shroud hides his lean muscles which are ready to fight without or without his concealed weapons.
+
+__PERSONALITY QUIRKS__ <br>
+
+
+__FAVOURED GEAR__
+
+- Flare gun
+- Type 29 submachine gun
+- X-ray polaroid camera
+
+__PRIMAL STATS__ <br>
+JAWS:0 | EYES:+2 | LIMBS:+2 | NERVES:0
+
+__PRIMAL ABILITIES__ <br>
+__Size flexibility:__ He can instantaneously change his sie and weight but not his proportions.
+A limited amount of items based on weight changes with him.
+His size ranges from ~1.65m to 1mm in height.<br>
+__Space flexibility:__ He can instantaneously change his location.
+Easy if its calm and within a distance of ~50m. Harder and prone to accidents if he's stressed\* or tries to travel beyond his range.
+
+\* I.e. in combat when bullets are flying everywhere<br>
+⁂
