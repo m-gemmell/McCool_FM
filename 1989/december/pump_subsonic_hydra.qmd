@@ -7,11 +7,12 @@ __BACKGROUND__ <br>
 A cheetah, peregrine falcon, and marlin all in one.
 He loves all fast vehicles* except spacecrafts.
 He's famous in various motor & water sports for his skills and personality.
-When testing an experimental vehicle he was chopped in half.
-He survived regrowing his bottom half whilst a new him grew from the bottom half.
-This has happened a few times.
-In this case the top half continued the famous life.
-The lower half decided to do something more dangerous and exciting; join PUML⁂.
+Recently he was chopped in half when testing and crashing an experimental vehicle.
+He survived.
+He regenerated from the top half and the bottom half, essentially cloning himself.
+Of course this is not the first time this has happened.
+His top clone continued the famous life as a racer.
+The bottom clone decided to do something more dangerous and exciting; join PUML⁂.
 
 __PHYSICAL FEATURES__ <br>
 __Blue racer:__ Adorned in racing leathers of cornflower blue.
